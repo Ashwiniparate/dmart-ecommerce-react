@@ -1,8 +1,8 @@
 # 🛒 DMart E-Commerce React App
 
 ## 📌 Project Overview
-A fully functional E-Commerce web application built using React JS, Redux Toolkit, Firebase Authentication, and Axios.  
-This project simulates a real online shopping experience with cart, wishlist, product listing, and checkout system.
+A fully functional E-Commerce web application built using **React JS, Redux Toolkit, Firebase Authentication, and Axios**.  
+This project simulates a real-world online shopping experience with features like product browsing, cart management, wishlist, and checkout UI.
 
 ---
 
@@ -13,10 +13,10 @@ This project simulates a real online shopping experience with cart, wishlist, pr
 - 🔍 Search Products
 - 📂 Category Filtering
 - 📄 Product Details Page
-- 🛒 Shopping Cart (Add / Remove / Quantity update)
+- 🛒 Shopping Cart (Add / Remove / Quantity Update)
 - ❤️ Wishlist System
 - 💳 Checkout Page UI
-- 📱 Responsive Design
+- 📱 Fully Responsive Design
 
 ---
 
