@@ -1,0 +1,9 @@
+
+.category img{
+    border-radius: 50%;
+    box-shadow: 0 0 10px black;
+    
+}
+#Catogeries img:hover{
+    border: 3px solid rgb(207, 222, 42);
+}

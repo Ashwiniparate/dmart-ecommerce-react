@@ -1,0 +1,18 @@
+.card{
+    width: 275px;
+    height: 300px;
+    box-shadow: 0 0 10px rgb(23, 206, 23);
+    
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.card h2 {
+    color: rgb(133, 114, 114);
+    font-size:25px;
+    margin:10px;
+    text-align: center;
+    
+}

@@ -1,0 +1,17 @@
+.trending{
+    height: 400px;
+    width: 1250px;
+    
+    margin: 50px auto;
+    display: grid;
+    grid-template-rows:15% 85% ;
+}
+
+.trending h1{
+      color: rgb(125, 34, 211);
+      margin-left: 32px;
+}
+.home-card-container{
+    display: flex;
+    justify-content: space-evenly;
+}

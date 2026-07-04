@@ -1,0 +1,12 @@
+.image{
+    padding:50px;
+}
+.image button{
+    margin:20px 90px;
+    padding: 13px 15px;
+    box-shadow: 0 0 10px black;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: brown;
+    color: white;
+}

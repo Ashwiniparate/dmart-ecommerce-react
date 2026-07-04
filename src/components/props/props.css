@@ -1,0 +1,13 @@
+.text{
+    width: 600px;
+    padding: 20px;
+    box-shadow: 0 0 10px red;
+    margin: 50px;
+}
+
+.display{
+    width: 350px;
+    padding: 20px;
+    box-shadow: 0 0 10px rebeccapurple;
+    margin: 50px;
+}

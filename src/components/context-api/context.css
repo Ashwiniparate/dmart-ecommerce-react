@@ -1,0 +1,25 @@
+.A{
+    width: 800px;
+    box-shadow: 0 0 10px green;
+    margin: 50px;
+    padding: 20px;
+}
+.A > div{
+     width: 600px;
+    box-shadow: 0 0 10px rgb(37, 28, 160);
+    margin: 30px;
+    padding: 20px;
+}
+.A > div > div{
+     width: 400px;
+    box-shadow: 0 0 10px rgb(202, 227, 40);
+    margin: 30px;
+    padding: 20px;
+}
+
+.A > div > div > div{
+     width: 200px;
+    box-shadow: 0 0 10px rgb(135, 10, 119);
+    margin: 30px;
+    padding: 20px;
+}

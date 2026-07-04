@@ -1,0 +1,14 @@
+.count{
+    padding: 20px;
+}
+.count h1{
+    color: blue;
+}
+.count button{
+    margin-top: 20px;
+    padding: 13px 15px;
+    border-radius: 5px;
+    background-color: lightseagreen;
+    color: white;
+    cursor: pointer;
+}

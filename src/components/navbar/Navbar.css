@@ -1,0 +1,60 @@
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  background: #111;
+  color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+/* BRAND */
+#brand h1 {
+  color: #ff3c00;
+  font-size: 30px;
+}
+
+/* MENUS */
+#menus {
+  display: flex;
+  gap: 25px;
+}
+
+#menus a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#menus a:hover {
+  color: #ff3c00;
+}
+
+/* RIGHT SIDE */
+#icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#icons a {
+  color: white;
+  text-decoration: none;
+}
+
+/* USER */
+.user-email {
+  color: lightgreen;
+  font-size: 14px;
+}
+
+/* BUTTON */
+#icons button {
+  padding: 6px 12px;
+  border: none;
+  cursor: pointer;
+  background: #ff3c00;
+  color: white;
+  border-radius: 5px;
+}

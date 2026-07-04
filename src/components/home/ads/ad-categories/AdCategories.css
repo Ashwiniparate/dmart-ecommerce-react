@@ -1,0 +1,45 @@
+.ad-kids{
+   
+    grid-column:1/4 ;
+    grid-row: 1/5;
+    box-shadow: 0 0 10px black;
+    background-image: linear-gradient(45deg,rgba(0,0,0,0.7)),url("https://tse3.mm.bing.net/th/id/OIP.gg6FFzlUzpot38DaUbQ5TAHaFW?pid=Api&h=220&P=0");
+}
+.ad-mens{
+   
+    grid-column: 4/6;
+    grid-row: 1/3;
+    background-image: linear-gradient(45deg,rgba(0,0,0,0.7)),url("https://tse3.mm.bing.net/th/id/OIP.7y4aw-kZo7o1QF0_VW5hkwHaFS?pid=Api&h=220&P=0");
+     box-shadow: 0 0 10px black;
+}
+.ad-womens{
+    grid-column: 4/6;
+    grid-row: 3/5;
+    background-image: linear-gradient(45deg,rgba(0,0,0,0.7)),url("https://tse1.mm.bing.net/th/id/OIP.C_BfosG7Clq70uP-xMonAgHaEK?pid=Api&h=220&P=0");
+     box-shadow: 0 0 10px black;
+}
+.backgroundProps{
+ background-size: 100% 100%;
+ background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.backgroundProps h1{
+    color: rgb(169, 121, 215);
+    
+    margin-bottom: 15px;
+}
+
+
+
+.backgroundProps p{
+    justify-content: center;
+    margin-left: 25px;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
